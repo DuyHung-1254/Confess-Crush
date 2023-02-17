@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Bé Thảo",
     introTitle: 'Bé Thảo',
-    introDesc: `Trả lời câu hỏi của bé Thảo xinh xắng `,
+    introDesc: `Anh có thấy bé Thảo dễ thương hong `,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Anh có thấy bé Thảo dễ thương hong',
+    desc: 'Nếu Anh thấy em dễ thương thì chọn "Cóa"',
     btnYes: 'Cóa,Gất Dễ Thương, Iu Iem <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao Anh lại yêu Em <3',
