@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Trả lời câu hỏi của bé Thảo xinh xắng `,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Anh có thấy bé Thảo dễ thương hogn',
+    desc: 'Anh có thấy bé Thảo dễ thương hong',
     btnYes: 'Cóa,Gất Iu Iem <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
